@@ -1,7 +1,6 @@
 #! /usr/bin/env node
 import inquirer from "inquirer";
 
-console.log("Welcome To Hibasheikh Currency Canverter");
 
 //Define the list of currencies and their exchange rates
 let exchange_rate: any = {
